@@ -20,6 +20,7 @@ public class GameController {
             @Override
             public void mousePressed(MouseEvent e) {
                 handleMousePress(e.getX(), e.getY());
+
             }
 
             public void mouseReleased(MouseEvent e){
